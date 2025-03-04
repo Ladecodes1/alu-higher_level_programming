@@ -2,14 +2,16 @@
 
 """
 Module documentation:
-This module defines a Square class with a private instance attribute `size` and size validation.
+This module defines a Square class with a private instance attribute `size`
+and size validation.
 """
 
 
 class Square:
     """
     Class documentation:
-    This class defines a square with a private instance attribute `size` and size validation.
+    This class defines a square with a private instance attribute `size`
+    and size validation.
     """
 
     def __init__(self, size=0):
