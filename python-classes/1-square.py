@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 
+
 """
 Module documentation:
 This module defines a Square class with a private instance attribute `size`.
