@@ -1,5 +1,11 @@
 #!/usr/bin/python3
 
+"""
+Module documentation:
+This module defines an empty class named Square.
+"""
+
+
 class Square:
     """
     Class documentation:
