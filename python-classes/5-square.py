@@ -12,8 +12,8 @@ class Square:
     """
     Class documentation:
     This class defines a square with a private instance attribute `size`,
-    a getter and setter for `size`, a method to calculate the area, and a method
-    to print the square using the `#` character.
+    a getter and setter for `size`, a method to calculate the area, and a
+    method to print the square using the `#` character.
     """
 
     def __init__(self, size=0):
